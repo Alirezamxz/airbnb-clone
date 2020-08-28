@@ -5,6 +5,7 @@
     padding: 20px;
     border : 1px solid lightgray;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 .searchResult:hover {
